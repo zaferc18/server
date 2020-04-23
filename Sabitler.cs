@@ -70,7 +70,7 @@ namespace Game_Server
 
         {
             bagli_kullanici_sayisi++;
-            Yazi.Log_Yaz("Kullanıcı Servera Bağlandı : " + connectionID);
+            Yazi.Log_Yaz("Kullanıcı Server'a Bağlandı : " + connectionID);
             Sabitler.server.listBox1.Items.Add(connectionID);
             ServerHandleData.InitializePackets();    
         }
