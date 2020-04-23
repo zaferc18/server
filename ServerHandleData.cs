@@ -14,7 +14,7 @@ namespace Game_Server
 
         {
             packets.Add((int)ClientPackets.CMerhabaServer, DataReceiver.HandleMerhabaServer);
-
+            packets.Add((int)ClientPackets.CMesajal, DataReceiver.HandleMesajal);
 
         }
 

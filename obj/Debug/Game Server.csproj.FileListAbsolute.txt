@@ -56,3 +56,22 @@ C:\Users\Zaferc\Desktop\Game Server\obj\Debug\Game Server.csproj.CoreCompileInpu
 C:\Users\Zaferc\Desktop\Game Server\obj\Debug\Game Server.csproj.CopyComplete
 C:\Users\Zaferc\Desktop\Game Server\obj\Debug\Game Server.exe
 C:\Users\Zaferc\Desktop\Game Server\obj\Debug\Game Server.pdb
+C:\Users\Zaferc\Desktop\Game Server\server\obj\Debug\Game Server.csprojAssemblyReference.cache
+C:\Users\Zaferc\Desktop\Game Server\server\obj\Debug\Game_Server.GameServer.resources
+C:\Users\Zaferc\Desktop\Game Server\server\obj\Debug\Game_Server.Properties.Resources.resources
+C:\Users\Zaferc\Desktop\Game Server\server\obj\Debug\Game Server.csproj.GenerateResource.cache
+C:\Users\Zaferc\Desktop\Game Server\server\obj\Debug\Game Server.csproj.CoreCompileInputs.cache
+C:\Users\Zaferc\Desktop\Game Server\server\obj\Debug\Game Server.exe
+C:\Users\Zaferc\Desktop\Game Server\server\obj\Debug\Game Server.pdb
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\Game Server.exe.config
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\Game Server.exe
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\Game Server.pdb
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\Google.Protobuf.dll
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\MySql.Data.dll
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\Renci.SshNet.dll
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\Google.Protobuf.xml
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\MySql.Data.xml
+C:\Users\Zaferc\Desktop\Game Server\server\bin\Debug\Renci.SshNet.xml
+C:\Users\Zaferc\Desktop\Game Server\server\obj\Debug\Game Server.csproj.CopyComplete
